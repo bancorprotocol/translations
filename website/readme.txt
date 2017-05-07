@@ -5,3 +5,5 @@ when you add a new language, please copy en.json and translate the new file, whe
 cn.json for Chinese
 fr.json for French
 etc..
+
+https://www.sitepoint.com/web-foundations/iso-2-letter-language-codes/
