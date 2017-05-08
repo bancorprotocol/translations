@@ -98,7 +98,7 @@
     "VP Engineering": "VP Engineering",
     "Core Developer": "Çekirdek Geliştirici",
     "QA Engineer": "Kalite Kontrol Mühendisi",
-    "UI/UX Designer": "UI/UX (Arayüz) Tasarımcısı",
+    "Product Designer": "Product (Arayüz) Tasarımcısı",
     "White Paper": "White Paper",
     "English": "İngilizce",
     "Chinese": "Çince",
@@ -118,7 +118,7 @@
     "Our Founders": "Our Founders",
     "Talks": "Talks",
     "now playing": "now playing",
-    "Interesting in more info?": "Interesting in more info?",
+    "Interested in more info?": "Interested in more info?",
     "Try Bounty on Mainnet": "Try Bounty on Mainnet",
     "Watch our videos": "Watch our videos",
     "A network of intrinsically tradable smart tokens on the blockchain": "A network of intrinsically tradable smart tokens on the blockchain",
@@ -157,5 +157,10 @@
     "The Bounty campaigns will run from May 2 to June 30, 2017 or the end of the crowdfund, whichever comes first": "The Bounty campaigns will run from May 2 to June 30, 2017 or the end of the crowdfund, whichever comes first",
     "To participate in any of the bounties, you must login to the Bancor Web Application and join one of the bounty communities where you can find all the details of each program": "To participate in any of the bounties, you must login to the Bancor Web Application and join one of the bounty communities where you can find all the details of each program",
     "Each bounty program has its own ERC20 smart token. At the end of the program, these tokens will become convertible to BANCOR tokens": "Each bounty program has its own ERC20 smart token. At the end of the program, these tokens will become convertible to BANCOR tokens",
-    "We are seeking collaborat ion from quality community members who believe in the Bancor protocol. Spammers and scammers will be disqualified and banned": "We are seeking collaboration from quality community members who believe in the Bancor protocol. Spammers and scammers will be disqualified and banned"
+    "We are seeking collaborat ion from quality community members who believe in the Bancor protocol. Spammers and scammers will be disqualified and banned": "We are seeking collaboration from quality community members who believe in the Bancor protocol. Spammers and scammers will be disqualified and banned",
+    "about_us_page_localcoin_team_section_subtitle": "LocalCoin Ltd. is currently working full time on developing software to promote the Bancor protocol.",
+    "We are seeking collaboration from quality community members who believe in the Bancor protocol. Spammers and scammers will be disqualified and banned": "We are seeking collaboration from quality community members who believe in the Bancor protocol. Spammers and scammers will be disqualified and banned",
+    "fundraiser_page_title": "fundraiser_page_title",
+    "fundraiser_page_description": "fundraiser_page_description",
+    "Our crowdfund is live": "Our crowdfund is live"
 }

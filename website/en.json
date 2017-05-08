@@ -70,7 +70,7 @@
 	"bounty_page_translation_bounty_description": "Are you great at translating from English to another language? This is your opportunity to help spread the word about the Bancor protocol by translating our core communications. Each accepted translation will earn a set amount of LINGOS.",
 	"bounty_page_content_bounty_description": "Are you a talented author or content creator? Do you know how to make viral videos or explain complex concepts with great audio/visuals? We are seeking indie content creators to help us spread the word about the Bancor protocol. Each accepted contribution will earn a range of Shakespeare (BNCSHK) Tokens.",
 	"bounty_page_btt_bounty_description": "This is your opportunity to help spread the word about the Bancor protocol by participating in our Avatar and Signature campaign on Bitcointalk.",
-	"press_page_title": "press_page_title",
+	"press_page_title": "Press",
 	"Download High-Res Image": "Download High-Res Image",
 	"eyal_bio": "Venture-backed technology entrepreneur for over 20 years. Founder of MetaCafe, Israel's fastest growing video sharing site reaching over 50m uniques at its peak. Previously, Eyal founded Contact Networks, one of the first social networks in 1999. Eyal has been an outspoken thought leader on cryptocurrency in Israel and is a talented piano and bass musician.",
 	"guy_bio": "Venture-backed technology entrepreneur for over 15 years. CEO of Mytopia (acquired by 888), Founder of Particle Code (acquired by Appcelerator), AppCoin and active angel investor. Guy discovered the blockchain in 2011.",
@@ -98,7 +98,7 @@
 	"VP Engineering": "VP Engineering",
 	"Core Developer": "Core Developer",
 	"QA Engineer": "QA Engineer",
-	"UI/UX Designer": "UI/UX Designer",
+	"Product Designer": "Product Designer",
 	"White Paper": "White Paper",
 	"English": "English",
 	"Chinese": "Chinese",
@@ -118,7 +118,7 @@
 	"Our Founders": "Our Founders",
 	"Talks": "Talks",
 	"now playing": "now playing",
-	"Interesting in more info?": "Interesting in more info?",
+	"Interested in more info?": "Interested in more info?",
 	"Try Bounty on Mainnet": "Try Bounty on Mainnet",
 	"Watch our videos": "Watch our videos",
 	"A network of intrinsically tradable smart tokens on the blockchain": "A network of intrinsically tradable smart tokens on the blockchain",
@@ -157,5 +157,7 @@
 	"The Bounty campaigns will run from May 2 to June 30, 2017 or the end of the crowdfund, whichever comes first": "The Bounty campaigns will run from May 2 to June 30, 2017 or the end of the crowdfund, whichever comes first",
 	"To participate in any of the bounties, you must login to the Bancor Web Application and join one of the bounty communities where you can find all the details of each program": "To participate in any of the bounties, you must login to the Bancor Web Application and join one of the bounty communities where you can find all the details of each program",
 	"Each bounty program has its own ERC20 smart token. At the end of the program, these tokens will become convertible to BANCOR tokens": "Each bounty program has its own ERC20 smart token. At the end of the program, these tokens will become convertible to BANCOR tokens",
-	"We are seeking collaborat ion from quality community members who believe in the Bancor protocol. Spammers and scammers will be disqualified and banned": "We are seeking collaboration from quality community members who believe in the Bancor protocol. Spammers and scammers will be disqualified and banned"
+	"We are seeking collaborat ion from quality community members who believe in the Bancor protocol. Spammers and scammers will be disqualified and banned": "We are seeking collaboration from quality community members who believe in the Bancor protocol. Spammers and scammers will be disqualified and banned",
+	"about_us_page_localcoin_team_section_subtitle": "LocalCoin Ltd. is currently working full time on developing software to promote the Bancor protocol.",
+	"We are seeking collaboration from quality community members who believe in the Bancor protocol. Spammers and scammers will be disqualified and banned": "We are seeking collaboration from quality community members who believe in the Bancor protocol. Spammers and scammers will be disqualified and banned"
 }
