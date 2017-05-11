@@ -20,7 +20,7 @@
 	"use_cases_section_description": "Smart tokens enable a new class of monetary instruments, with different reserve configurations for various applications.",
 	"use_cases_section_use_case_1_title": "Token Changers",
 	"use_cases_section_use_case_1_description": "Token changers are smart tokens that can be used to exchange between other standard ERC20 tokens that are held in their reserve.<br><br>When the calculated exchange prices drift from market prices in external exchanges, arbitrageurs are incentivized to restore economic equilibrium, keeping prices in sync with the outside world.",
-	"use_cases_section_use_case_2_title": "ETFs (token baskets)",
+	"use_cases_section_use_case_2_title": "ETFs (Token Baskets)",
 	"use_cases_section_use_case_2_description": "Token baskets are smart tokens that hold multiple standard ERC20 tokens in their reserve, enabling holding a portfolio of tokens by holding a single smart token.<br><br>When the calculated reserve prices drift from market prices in external exchanges, arbitrageurs are incentivized to restore economic equilibrium, keeping prices in sync with the outside world.",
 	"use_cases_section_use_case_3_title": "Project and Protocol Tokens",
 	"use_cases_section_use_case_3_description": "The crowdfunding space has been growing rapidly. Smart tokens can be used for crypto-crowdfunding initiatives, where participants receive tokens which are liquid and automatically market-priced.",
@@ -122,7 +122,7 @@
 	"Try Bounty on Mainnet": "Try Bounty on Mainnet",
 	"Watch our videos": "Watch our videos",
 	"A network of intrinsically tradable smart tokens on the blockchain": "A network of intrinsically tradable smart tokens on the blockchain",
-	"User-generated decentralized ETFs (token baskets)": "User-generated decentralized ETFs (token baskets)",
+	"User-generated decentralized ETFs (token baskets)": "User-generated decentralized ETFs (Token Baskets)",
 	"Chatbots help anyone create a smart token and manage a crowdfund": "Chatbots help anyone create a smart token and manage a crowdfund",
 	"Our crowdfund will begin on May 30, 09:00 GMT": "Our crowdfund will begin on May 30, 09:00 GMT",
 	"Days": "Days",
@@ -190,5 +190,7 @@
 	"Signature for Sr. Member or Hero": "Signature for Sr. Member or Hero",
 	"Signature for Legendary": "Signature for Legendary",
 	"Bancor Avatar": "Bancor Avatar",
-	"Web Service": "Web Service"
+	"Web Service": "Web Service",
+	"fundraiser_page_title": "fundraiser_page_title",
+	"fundraiser_page_description": "fundraiser_page_description"
 }
