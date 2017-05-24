@@ -27,6 +27,10 @@
     "use_cases_section_use_case_3_description": "Краудфандинг как явление стремительно набирает обороты. Смарт-токены могут использоваться для крипто краудфандинговых проектов, где участники получают токены, которые ликвидны и имеют собственную стоимость на рынке.",
     "use_cases_section_use_case_4_title": "Валюты сообществ",
     "use_cases_section_use_case_4_description": "Смарт токены позволяют любому выпустить новую, ликвидную валюту. Существует множество примеров пользовательских валют, такие как валюта сообщества, очки программ лояльности, бартер B2B, и с недавнего времени протокольные токены для блокчейна.<br><br>Все приведённые выше примеры могут получить выгоду от гарантий протокола ликвидности Bancor.",
+    "use_cases_page_title": "Smart Token Use Cases",
+    "use_cases_page_description": "Smart-tokens provide a simple and powerful building block for implementing new types of monetary models, applications, value networks such as local currencies, project tokens, decentralised index funds and much more.",
+    "use_cases_section_use_case_5_title": "Anyone Can Create a Token and Launch an ICO",
+    "use_cases_section_use_case_5_description": "The Bancor Bot allows anyone to create their own Smart token (Project/Protocol Tokens, ETF, Token Changer or Commnunity Currency) and initiate multiple types of ICOs without any technical knowledge by simply answering a few questions.<br><br>Supported Bots: Facebook Messenger, Telegram, WeChat & Status.IM",
     "smart_contracts_section_title": "Смарт-Контракты Bancor Bancor Smart Contracts",
     "smart_contracts_section_description": "Смарт-токены Bancor реализуются при помощи использования смарт-контрактов, первоначально размещённых в сети Ethereum.<br><br>Смарт-токены совместимы со стандартами ERC20 и EIP228. Протокол будет эволюционировать для включения всех дополнительных стандартов, чтобы обеспечить более гибкую, кросс-блокчейновую совместимость и увеличить защиту смарт-токенов. Bancor smart tokens are implemented using smart contracts, initially deployed on the Ethereum network. <br><br>Smart tokens are compatible with ERC20 and EIP228. The protocol will evolve to include additional standards to allow more flexibility, cross-blockchain compatibility and increased security for smart tokens.",
     "bancor_token_section_feature_1_title": "Бесконечная Ликвидность",
@@ -204,5 +208,7 @@
     "Full Name": "Полное имя",
     "Email Address": "Адрес электронной почты",
     "Message": "Сообщение",
-    "Loading": "Loading"
+    "Loading": "Loading",
+    "Product": "Product",
+    "Use Cases": "Use Cases"
 }

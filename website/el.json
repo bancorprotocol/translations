@@ -27,6 +27,10 @@
     "use_cases_section_use_case_3_description": "Ο χώρος του πληθοπορισμόυ μεγαλώνει ραγδαία. Τα έξυπνα συμβόλαια επιτρέπουν πληθοπορισμόυς στον τομέα της κρυπτογραφίας, οπού συμμετέχοντες δέχονται μάρκες με ρευστότητα και σε τιμές αγοράς.",
     "use_cases_section_use_case_4_title": "Κοινοτικά Νομίσματα",
     "use_cases_section_use_case_4_description": "Έξυπνες μάρκες επιτρέπουν στον καθένα να έκδοση ένα καινούργιο, ρευστό νόμισμα (μάρκα) για την κοινότητα τους. Υπάρχουν πολλά παραδείγματα από εκδομένες μάρκες χρηστών, όπως κοινοτικές μάρκες, πόντους αφοσίωσης, συναλλαγές επιχείρησης προς επιχείρησης και μάρκες πρωτοκόλλων Blockchain.<br><br>Όλα αυτά τα παραδείγματα μπορούν να ωφεληθούν από την ρευστότητα και ασύγχρονη ανακάλυψη τιμών που προσφέρει στο πρωτόκολλο Bancor.",
+    "use_cases_page_title": "Smart Token Use Cases",
+    "use_cases_page_description": "Smart-tokens provide a simple and powerful building block for implementing new types of monetary models, applications, value networks such as local currencies, project tokens, decentralised index funds and much more.",
+    "use_cases_section_use_case_5_title": "Anyone Can Create a Token and Launch an ICO",
+    "use_cases_section_use_case_5_description": "The Bancor Bot allows anyone to create their own Smart token (Project/Protocol Tokens, ETF, Token Changer or Commnunity Currency) and initiate multiple types of ICOs without any technical knowledge by simply answering a few questions.<br><br>Supported Bots: Facebook Messenger, Telegram, WeChat & Status.IM",
     "smart_contracts_section_title": "Έξυπνα Συμβόλαια Bancor",
     "smart_contracts_section_description": "Οι έξυπνες μάρκες Bancor ενεργούν μέσω τον έξυπνων συμβολαίων, που αναπτυχθήκαν αρχικά στο δίκτυο Ethereum.<br><br>Οι έξυπνες μάρκες είναι συμβατές με τους δυο τύπους ERC20 και EIP228. Το πρωτόκολλο θα αναπτυχθεί ώστε να συμπεριλαμβάνει και άλλους τύπους, κάνοντας το δίκτυο πιο ευέλικτο, συμβατό με άλλα Blockchain δίκτυα, και αυξάνοντας την ασφάλεια τον έξυπνων μαρκών.",
     "bancor_token_section_feature_1_title": "Συνεχή Ρευστότητα",
@@ -204,5 +208,7 @@
     "Full Name": "Πλήρες όνομα",
     "Email Address": "Διεύθυνση ηλεκτρονικού ταχυδρομείου",
     "Message": "Μήνυμα",
-    "Loading": "Loading"
+    "Loading": "Loading",
+    "Product": "Product",
+    "Use Cases": "Use Cases"
 }

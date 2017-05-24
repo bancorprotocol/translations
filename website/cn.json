@@ -27,6 +27,10 @@
     "use_cases_section_use_case_3_description": "The crowdfunding space has been growing rapidly. Smart tokens can be used for crypto-crowdfunding initiatives, where participants receive tokens which are liquid and automatically market-priced.",
     "use_cases_section_use_case_4_title": "Community Currencies",
     "use_cases_section_use_case_4_description": "Smart tokens enable anyone to issue new, liquid currencies for their group. There are many examples of user-generated currencies, such as community currencies, loyalty points, B2B barter, and more recently, blockchain protocol tokens.<br><br>All of these use-cases can benefit from liquidity and asynchronous price discovery with the Bancor protocol.",
+    "use_cases_page_title": "Smart Token Use Cases",
+    "use_cases_page_description": "Smart-tokens provide a simple and powerful building block for implementing new types of monetary models, applications, value networks such as local currencies, project tokens, decentralised index funds and much more.",
+    "use_cases_section_use_case_5_title": "Anyone Can Create a Token and Launch an ICO",
+    "use_cases_section_use_case_5_description": "The Bancor Bot allows anyone to create their own Smart token (Project/Protocol Tokens, ETF, Token Changer or Commnunity Currency) and initiate multiple types of ICOs without any technical knowledge by simply answering a few questions.<br><br>Supported Bots: Facebook Messenger, Telegram, WeChat & Status.IM",
     "smart_contracts_section_title": "Bancor Smart Contracts",
     "smart_contracts_section_description": "Bancor smart tokens are implemented using smart contracts, initially deployed on the Ethereum network. <br><br>Smart tokens are compatible with ERC20 and EIP228. The protocol will evolve to include additional standards to allow more flexibility, cross-blockchain compatibility and increased security for smart tokens.",
     "bancor_token_section_feature_1_title": "Continuous Liquidity",
@@ -204,5 +208,7 @@
     "Full Name": "Full Name",
     "Email Address": "Email Address",
     "Message": "Message",
-    "Loading": "Loading"
+    "Loading": "Loading",
+    "Product": "Product",
+    "Use Cases": "Use Cases"
 }

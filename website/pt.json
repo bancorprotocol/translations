@@ -27,6 +27,10 @@
     "use_cases_section_use_case_3_description": "O espaço de crowdfunding tem crescido rapidamente. Smart Tokens podem ser usados para iniciativas de cripto-crowdfunding, onde os participantes recebem tokens que são líquidos e automaticamente com preços de mercado.",
     "use_cases_section_use_case_4_title": "Moedas de Communidade",
     "use_cases_section_use_case_4_description": "Smart Tokens permitem a qualquer pessoa emitir novas moedas líquidas para o seu grupo. Existem muitos exemplos de moedas geradas por usuários, como moedas da comunidade, pontos de fidelidade, troca B2B e, mais recentemente, tokens de protocolo blockchain.<br><br>Em todos esses casos práticos pode se beneficiar da liquidez e da descoberta assíncrona de preços com o protocolo Bancor.",
+    "use_cases_page_title": "Smart Token Use Cases",
+    "use_cases_page_description": "Smart-tokens provide a simple and powerful building block for implementing new types of monetary models, applications, value networks such as local currencies, project tokens, decentralised index funds and much more.",
+    "use_cases_section_use_case_5_title": "Anyone Can Create a Token and Launch an ICO",
+    "use_cases_section_use_case_5_description": "The Bancor Bot allows anyone to create their own Smart token (Project/Protocol Tokens, ETF, Token Changer or Commnunity Currency) and initiate multiple types of ICOs without any technical knowledge by simply answering a few questions.<br><br>Supported Bots: Facebook Messenger, Telegram, WeChat & Status.IM",
     "smart_contracts_section_title": "Bancor Smart Contracts",
     "smart_contracts_section_description": "Bancor smart tokens são implementados através de smart contract, inicialmente implantados na rede Ethereum. <br><br>Os smart tokens são compatíveis com ERC20 e EIP228. O protocolo evoluirá para incluir padrões adicionais para permitir mais flexibilidade, compatibilidade cross-blockchain e maior segurança para smart tokens.",
     "bancor_token_section_feature_1_title": "Liquidez Contínua",
@@ -204,5 +208,7 @@
     "Full Name": "Nome completo",
     "Email Address": "Endereço de e-mail",
     "Message": "mensagem",
-    "Loading": "Loading"
+    "Loading": "Loading",
+    "Product": "Product",
+    "Use Cases": "Use Cases"
 }

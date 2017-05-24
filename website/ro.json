@@ -27,6 +27,10 @@
     "use_cases_section_use_case_3_description": "Strângerea de fonduri este o metodă din ce în ce mai folosită iar tokenii smart pot fi de asemenea folosiți pentru inițiative de colectare de fonduri, iar participanții vor beneficia de tokeni foarte lichizi și la prețul pieței.",
     "use_cases_section_use_case_4_title": "Monezi comunitare",
     "use_cases_section_use_case_4_description": "Tokenii smart lasă posibilitatea oricui de a crea monezi de tip comunitar cum sunt de exemplu monezile de fidelizare  sau pe bază de blockchain și care au beneficiul de a fi convertite usor în lichiditați.<br><br>Toate aceste monezi vor beneficia de lichiditatea pe care protocolul bancor o va folosi și asigura.",
+    "use_cases_page_title": "Smart Token Use Cases",
+    "use_cases_page_description": "Smart-tokens provide a simple and powerful building block for implementing new types of monetary models, applications, value networks such as local currencies, project tokens, decentralised index funds and much more.",
+    "use_cases_section_use_case_5_title": "Anyone Can Create a Token and Launch an ICO",
+    "use_cases_section_use_case_5_description": "The Bancor Bot allows anyone to create their own Smart token (Project/Protocol Tokens, ETF, Token Changer or Commnunity Currency) and initiate multiple types of ICOs without any technical knowledge by simply answering a few questions.<br><br>Supported Bots: Facebook Messenger, Telegram, WeChat & Status.IM",
     "smart_contracts_section_title": "Contracte Smart Bancor",
     "smart_contracts_section_description": "Tokenii smart Bancor sunt implementați folosind contracte smart, care vor fi introduși în rețeaua Ethereum. <br><br>Tokenii smart sunt compatibili cu ERC20 și EIP228. Protocolul va evolua astfel încât să includă mai multe nivele facând-ul astfel mai flexibil, compatibil cu tehnologia blockchain și va genera o securitate și mai mare tuturor smart tokenilor.",
     "bancor_token_section_feature_1_title": "Lichiditate Continuă",
@@ -204,5 +208,7 @@
     "Full Name": "Numele complet",
     "Email Address": "Adresa de email",
     "Message": "Mesaj",
-    "Loading": "Loading"
+    "Loading": "Loading",
+    "Product": "Product",
+    "Use Cases": "Use Cases"
 }

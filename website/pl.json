@@ -27,6 +27,10 @@
     "use_cases_section_use_case_3_description": "Finansowanie społecznościowe staje się coraz bardziej popularne. Inteligentne tokeny mogą być używane przy finansowaniu projektów przy pomocy kryptowalut, w których uczestnicy otrzymują tokeny, które są płynne i automatycznie wycenione.",
     "use_cases_section_use_case_4_title": "Waluty społecznościowe",
     "use_cases_section_use_case_4_description": "Inteligentne tokeny pozwalają każdemu na tworzenie nowych walut o gwarantowanej płynności na potrzeby własnych społeczności. Jest wiele przykładów walut tworzonych przez użytkowników, na przykład punkty lojalnościowe, barterowe rozliczenia B2B, a ostatnio tokeny protokołów blockchainowych.<br><br>W przypadku wszystkich wspomnianych zastosowań na płynności oraz asynchronicznym odkrywaniu ceny przy pomocy protokołu Bancor można tylko skorzystać.",
+    "use_cases_page_title": "Smart Token Use Cases",
+    "use_cases_page_description": "Smart-tokens provide a simple and powerful building block for implementing new types of monetary models, applications, value networks such as local currencies, project tokens, decentralised index funds and much more.",
+    "use_cases_section_use_case_5_title": "Anyone Can Create a Token and Launch an ICO",
+    "use_cases_section_use_case_5_description": "The Bancor Bot allows anyone to create their own Smart token (Project/Protocol Tokens, ETF, Token Changer or Commnunity Currency) and initiate multiple types of ICOs without any technical knowledge by simply answering a few questions.<br><br>Supported Bots: Facebook Messenger, Telegram, WeChat & Status.IM",
     "smart_contracts_section_title": "Inteligentne kontrakty Bancor",
     "smart_contracts_section_description": "Inteligentne kontrakty Bancor są implementowane przy pomocy inteligentnych kontraktów uruchomionych w sieci Ethereum. <br><br>Inteligentne tokeny są kompatybilne ze standardami ERC20 oraz EIP228. Protokół będzie ewoluował, aby włączyć także inne standardy i zapewnić większą elastyczność i kompatybilność pomiędzy różnymi blockchainowymi łańcuchami, a także w celu zapewnienia większego bezpieczeństwa inteligentnym tokenom.",
     "bancor_token_section_feature_1_title": "Ciągła płynność",
@@ -204,5 +208,7 @@
     "Full Name": "Pełne imię i nazwisko",
     "Email Address": "Adres e-mailowy",
     "Message": "Wiadomość",
-    "Loading": "Loading"
+    "Loading": "Loading",
+    "Product": "Product",
+    "Use Cases": "Use Cases"
 }
