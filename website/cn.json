@@ -67,7 +67,7 @@
     "Want to learn more about the BANCOR network token?": "Want to learn more about the BANCOR network token?",
     "about_us_page_bancor_protocol_team_section_title": "Bprotocol Foundation",
     "about_us_page_localcoin_team_section_title": "LocalCoin Ltd.",
-    "press_page_brand_resources_description": "If you require additional assets, please write to <a href='press@bancor.network'>press@bancor.network</a>",
+    "press_page_brand_resources_description": "If you require additional assets, please write to <a href='mailto:press@bancor.network'>press@bancor.network</a>",
     "bounty_page_title": "Bounty",
     "bounty_page_description": "The purpose of the MVP is to provide a solution for the bounty programs for the Bancor Crowdsale.<br/>This tool may be used in the future for other 3rd parties crowdsales.",
     "bounty_page_bug_bounty_description": "Are you the next Neo? Just kidding, but if you are a developer and you catch a bug in our smart contracts, website or software, we will reward you for the great work. Each accepted bug report will earn a varied amount of ECoins (BNCECO).",
@@ -229,7 +229,7 @@
     "civic_pertner_description": "Through their decentralized architecture with blockchain and biometrics on the mobile device, the Civic platform provides multi-factor authentication without a username, password, third party authenticator, or physical hardware token. We’re excited to bring identity management to smart token communities who can benefit from it.",
     "imtoken_pertner_description": "IMToken is a smart digital wallet meant to provide an easy, simple and powerful interface for users of all technical backgrounds. We are proud to offer Smart Token users another great solution for storing and transferring their user-generated tokens.",
     "partners_page_title": "Partnerships",
-    "partners_page_dapps_partners_title": "Daaps Blockchains",
+    "partners_page_dapps_partners_title": "Blockchain Devs",
     "partners_page_currencies_partners_title": "Complementary Currencies",
     "partners_page_business_partners_title": "Business Partners",
     "qoin_pertner_description": "Qoin helps to build vibrant local communities for the long term. By introducing locally owned and locally run community currencies we help citizens, business, government and institutions to co-create and to deliver meaningful impacts in social, environmental and economic domains. Qoin helps initiatives from idea to successful realization and operation, with a clear eye for reaching desired local impacts.",
@@ -290,5 +290,12 @@
     "Careers": "Careers",
     "Operations": "Operations",
     "Engineering": "Engineering",
-    "Current price": "Current price"
+    "Current price": "Current price",
+    "how to buy bnt": "how to buy bnt",
+    "How to buy bnt": "How to buy bnt",
+    "24 volume": "24 volume",
+    "circulating supply": "circulating supply",
+    "Market cap": "Market cap",
+    "total supply": "total supply",
+    "How to Buy BNT": "How to Buy BNT"
 }

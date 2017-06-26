@@ -67,7 +67,7 @@
     "Want to learn more about the BANCOR network token?": "BANCORネットワークトークンについてもっと学びたいですか？",
     "about_us_page_bancor_protocol_team_section_title": "Bprotocol財団",
     "about_us_page_localcoin_team_section_title": "LocalCoin Ltd.",
-    "press_page_brand_resources_description": "もし追加資産が必要な場合は、こちらまでお送りください<a href='press@bancor.network'>press@bancor.network</a>",
+    "press_page_brand_resources_description": "もし追加資産が必要な場合は、こちらまでお送りください<a href='mailto:press@bancor.network'>press@bancor.network</a>",
     "bounty_page_title": "報奨金",
     "bounty_page_description": "MVPの目的は、Bancorクラウドセールの賞金プログラムのためのソリューションを提供することです。<br />このツールは、将来他の第三者のクラウドセールに使用される可能性があります。",
     "bounty_page_bug_bounty_description": "あなたは次のNeoですか？冗談です。しかしもしあなたが開発者でありスマートコントラクト、ウェブサイトまたはソフトウェアでバグを見つけた場合、私たちはその偉大な仕事ためにあなたに報います。受理された各バグレポートは、様々な金額のECoins(BNCECO)を獲得します。",
@@ -229,7 +229,7 @@
     "civic_pertner_description": "Through their decentralized architecture with blockchain and biometrics on the mobile device, the Civic platform provides multi-factor authentication without a username, password, third party authenticator, or physical hardware token. We’re excited to bring identity management to smart token communities who can benefit from it.",
     "imtoken_pertner_description": "IMToken is a smart digital wallet meant to provide an easy, simple and powerful interface for users of all technical backgrounds. We are proud to offer Smart Token users another great solution for storing and transferring their user-generated tokens.",
     "partners_page_title": "Partnerships",
-    "partners_page_dapps_partners_title": "Daaps Blockchains",
+    "partners_page_dapps_partners_title": "Blockchain Devs",
     "partners_page_currencies_partners_title": "Complementary Currencies",
     "partners_page_business_partners_title": "Business Partners",
     "qoin_pertner_description": "Qoin helps to build vibrant local communities for the long term. By introducing locally owned and locally run community currencies we help citizens, business, government and institutions to co-create and to deliver meaningful impacts in social, environmental and economic domains. Qoin helps initiatives from idea to successful realization and operation, with a clear eye for reaching desired local impacts.",
@@ -290,5 +290,12 @@
     "Careers": "Careers",
     "Operations": "Operations",
     "Engineering": "Engineering",
-    "Current price": "Current price"
+    "Current price": "Current price",
+    "how to buy bnt": "how to buy bnt",
+    "How to buy bnt": "How to buy bnt",
+    "24 volume": "24 volume",
+    "circulating supply": "circulating supply",
+    "Market cap": "Market cap",
+    "total supply": "total supply",
+    "How to Buy BNT": "How to Buy BNT"
 }
